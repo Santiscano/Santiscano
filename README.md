@@ -5,7 +5,7 @@
 
 
 <br>
-🧑🏻‍💻 Programador autodidacta con 2 años de experiencia profesional <br>
+🧑🏻‍💻 Programador autodidacta con 3 años de experiencia profesional <br>
 📚 Estudiante actual en CESDE como tecnico en desarrollo de sofware y amante al aprendizaje constante <br>
 🌐 Mi sio web personal https://santiagoscdev.netlify.app/ <br>
 🎸 Amante a las artes musicales <br> 
