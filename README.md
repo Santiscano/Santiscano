@@ -20,30 +20,30 @@
 ### 💻 Desarrollador Web:
 
 #### 🏠 Frontend:
-![HTML, CSS, Javascript, Typescript, React, Angular](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular)
-<br>
-![Tailwind CSS, Sass,,redux,,material ui,mark down,vite](https://skillicons.dev/icons?i=tailwind,sass,redux,materialui,md,vite,reactivex)
----
+![HTML, CSS, Javascript, Typescript, React, Angular, Rxjs](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,reactivex)
+
 #### 🚓 Backend:
-![Node JS, Express, Nestjs, PHP](https://skillicons.dev/icons?i=nodejs,express,nestjs,php)
+![Node JS, Nestjs, Python, FastApi, Java, SpringBoot](https://skillicons.dev/icons?i=nodejs,nestjs,py,fastapi,java,spring)
 <br>
-![MySQL, Postgres, MongoDB, Prisma](https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma)
+![MySQL, Postgres, MongoDB, Redis](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis)
+<br>
+![Docker, Nginx](https://skillicons.dev/icons?i=docker,nginx)
 ---
 #### 📱 Desarrollador Movil:
 ![React Native](https://skillicons.dev/icons?i=react)
 ---
 #### 🔔 Otros Lenguajes:
-![Java, Python](https://skillicons.dev/icons?i=java,py)
+![PHP, C#](https://skillicons.dev/icons?i=php,cs)
 --- 
 #### ☁️ Cloud: "Aprendiendo"
-![Skills Cloud](https://skillicons.dev/icons?i=gcp)
----
+![Google, Amazon](https://skillicons.dev/icons?i=gcp,aws)
+
 #### 🧑🏻‍🏫 Otras:
-![others Tech](https://skillicons.dev/icons?i=git,github,notion,npm,yarn,powershell)
----
+![others Tech](https://skillicons.dev/icons?i=git,github,gitlab,linux,nginx)
+
 <!-- ### 🔰 Ciber seguridad: -->
 #### 📖 En proceso de aprendizaje 
-![Learning skills](https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,firebase,spring,solidity,sqlite,azure,jest,nginx,graphql)
+![Learning skills](https://skillicons.dev/icons?i=dynamodb,githubactions,jenkins,kafka,kubernetes,jest,graphql)
 
 <!-- 
 Proximos por aprender
